@@ -91,7 +91,7 @@
     background-color: blanchedalmond;
     border-radius: 50%;
     position:fixed;
-    transform: translate(-50%,-50%) sscale(0);
+    transform: translate(-50%,-50%) scale(0);
 }
 
 html,body{
